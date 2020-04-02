@@ -1,12 +1,13 @@
+
 ###  Coverage
 The degree to which specified coverage items have been determined or have been exercised by a test suite expressed as a percentage.
 
 ###  Debugging
-The process of finding, analyzing and removing the causes of failures in software.
+The process of finding, analyzing and removing the causes of failures in software.  
 The process of detecting and removing of existing and potential errors
 
 ###  Defect
-An imperfection or deficiency in a work product where it does not meet its requirements or specifications.
+An imperfection or deficiency in a work product where it does not meet its requirements or specifications.<br/>
 Any variance between actual and expected result .
 
 ###  Error
@@ -70,7 +71,7 @@ The practice of organizing and prioritizing tests
 The process of running a test on the component or system under test, producing actual result(s).
 The process of executing the code and comparing the expected and actual results.
 
-#### Test Execution Schedule
+### Test Execution Schedule
 A schedule for the execution of test suites within a test cycle.
 
 ###  Test Monitoring
